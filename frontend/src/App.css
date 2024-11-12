@@ -1,0 +1,28 @@
+.app{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(226, 223, 223);
+  margin: 0;
+  padding: 0;
+ height: 90vh;
+ font-family: sans-serif;
+}
+.form{
+  display: flex;
+  gap: 5px;
+}
+.form>input{
+  padding: 7px;
+  border-radius: 5px;
+  border: 0.1px solid rgb(163, 163, 163);
+  outline: none;
+}
+.form>button{
+  border: none;
+  background-color: rgb(6, 98, 218);
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
