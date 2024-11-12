@@ -1,0 +1,1 @@
+please copy the repository then start the backend server just by typing npm start so the nodemon start the server at 8000 port then start react app 
